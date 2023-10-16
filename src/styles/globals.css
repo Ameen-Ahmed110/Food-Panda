@@ -65,7 +65,15 @@ body {
 /* ListResturant */
 
 .listBanner{
-  background-image: url("../../public/images/bannerPanda.jpg");
+  background-image: url("../../public/images/banner/bannerPanda.jpg");
+  background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 400px;
+
+}
+.bannerBusiness{
+  background-image: url("../../public/images/banner/bannerBusness.jpg");
   background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
